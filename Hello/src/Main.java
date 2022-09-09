@@ -9,6 +9,11 @@ public class Main {
         System.out.println("tercer saludo desde intellij");
         //cambio tamar
         int nuevavariable=10;
+        for(int i; i>10;i++){
+            System.out.println("Hola");
+            
+            
+        }
 
     }
 }
