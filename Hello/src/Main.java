@@ -7,5 +7,8 @@ public class Main {
         System.out.println("segundo saludo desde intellij");
         System.out.println("tercer saludo desde intellij");
         System.out.println("tercer saludo desde intellij");
+        //cambio tamar
+        int nuevavariable=10;
+
     }
 }
